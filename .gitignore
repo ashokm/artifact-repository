@@ -1,3 +1,4 @@
 .idea/
+.cache
 _remote.repositories
 maven-metadata-local.xml
